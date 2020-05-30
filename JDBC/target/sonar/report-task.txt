@@ -1,0 +1,6 @@
+projectKey=co.edureka:JDBC
+serverUrl=http://localhost:9000
+serverVersion=8.3.1.34397
+dashboardUrl=http://localhost:9000/dashboard?id=co.edureka%3AJDBC
+ceTaskId=AXJj-vU_KR_xKK-jqjAL
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXJj-vU_KR_xKK-jqjAL
